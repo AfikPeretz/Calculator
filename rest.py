@@ -30,6 +30,7 @@ class Calculator(object):
         elif self.formula['operation'] == '÷':
             computation = prev / current
         return computation
+        
 
 
 
